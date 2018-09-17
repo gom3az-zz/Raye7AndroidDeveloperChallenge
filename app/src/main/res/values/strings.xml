@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="action_menu_favourites">Favourites</string>
+    <string name="action_menu_news">News</string>
+</resources>
