@@ -31,3 +31,8 @@ toolbar option menu toggles between favorites and news.
     <img src="ss/Screenshot_1537186094.png" width="250px"</img> 
     <img src="ss/Screenshot_1537186176.png" width="250px"</img>
 </div>
+
+## Apk
+[apk](ss/raye7.apk)
+
+
